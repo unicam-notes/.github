@@ -1,0 +1,49 @@
+body:
+- type: markdown
+  attributes:
+    value: 'Inserisci il titolo nel campo di GitHub. Puoi compilare il modulo in italiano o inglese.
+
+
+      Enter the title in GitHub’s title field. You can complete this form in Italian or English.'
+- type: markdown
+  attributes:
+    value: 'Condividi appunti PDF, archivi ZIP con cartelle o materiali, esercitazioni e soluzioni, documenti
+      Markdown o altri file pertinenti. Condividi solo materiali che hai il diritto o l’autorizzazione
+      di distribuire; indica autori originali e fonti. Gli allegati devono rispettare i formati e i limiti
+      supportati da GitHub. Se un file non è caricabile, fornisci un link accessibile o proponi una pull
+      request per aggiungerlo al repository.
+
+
+      Share PDF notes, ZIP archives containing folders or materials, exercises and solutions, Markdown
+      documents or other relevant files. Only share materials you have the right or permission to distribute;
+      credit original authors and sources. Attachments must comply with GitHub’s supported formats and
+      limits. If a file cannot be uploaded, provide an accessible link or submit a pull request to add
+      it to the repository.
+
+
+      Tutti i repository di UNICAM Notes adottano la BSD 3-Clause. Ogni contributo deve rispettarne i
+      termini; inviando materiali originali, accetti di renderli disponibili con questa licenza.
+
+
+      All UNICAM Notes repositories use the BSD 3-Clause license. Every contribution must comply with
+      its terms; by submitting original materials, you agree to make them available under this license.'
+- type: input
+  id: course
+  attributes:
+    label: Corso o modulo / Course or module
+  validations:
+    required: true
+- type: textarea
+  id: description
+  attributes:
+    label: Descrizione del materiale / Material description
+  validations:
+    required: true
+- type: textarea
+  id: materials
+  attributes:
+    label: File allegati o link al materiale / Attachments or material links
+    description: Allega qui i file supportati o incolla un link, anche a una pull request. / Attach supported
+      files here or paste a link, including a pull request link.
+  validations:
+    required: true

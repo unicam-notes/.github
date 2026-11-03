@@ -1,0 +1,19 @@
+body:
+- type: markdown
+  attributes:
+    value: 'Inserisci il titolo nel campo di GitHub. Puoi compilare il modulo in italiano o inglese.
+
+
+      Enter the title in GitHub’s title field. You can complete this form in Italian or English.'
+- type: input
+  id: topic
+  attributes:
+    label: Argomento o modulo / Topic or module
+  validations:
+    required: false
+- type: textarea
+  id: question
+  attributes:
+    label: Domanda o descrizione / Question or description
+  validations:
+    required: true

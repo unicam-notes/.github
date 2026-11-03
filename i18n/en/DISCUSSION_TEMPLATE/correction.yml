@@ -1,0 +1,24 @@
+body:
+- type: markdown
+  attributes:
+    value: English version of the active bilingual form. You can complete and submit the bilingual form
+      in English. [Active bilingual form](https://github.com/unicam-notes/.github/blob/HEAD/.github/DISCUSSION_TEMPLATE/correction.yml).
+      Enter the title in GitHub’s title field.
+- type: input
+  id: material
+  attributes:
+    label: Affected file or material
+  validations:
+    required: true
+- type: textarea
+  id: error
+  attributes:
+    label: Error description
+  validations:
+    required: true
+- type: textarea
+  id: correction
+  attributes:
+    label: Suggested correction
+  validations:
+    required: false

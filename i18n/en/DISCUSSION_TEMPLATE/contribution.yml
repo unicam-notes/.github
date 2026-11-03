@@ -1,0 +1,36 @@
+body:
+- type: markdown
+  attributes:
+    value: English version of the active bilingual form. You can complete and submit the bilingual form
+      in English. [Active bilingual form](https://github.com/unicam-notes/.github/blob/HEAD/.github/DISCUSSION_TEMPLATE/contribution.yml).
+      Enter the title in GitHub’s title field.
+- type: markdown
+  attributes:
+    value: 'Share PDF notes, ZIP archives containing folders or materials, exercises and solutions, Markdown
+      documents or other relevant files. Only share materials you have the right or permission to distribute;
+      credit original authors and sources. Attachments must comply with GitHub’s supported formats and
+      limits. If a file cannot be uploaded, provide an accessible link or submit a pull request to add
+      it to the repository.
+
+
+      All UNICAM Notes repositories use the BSD 3-Clause license. Every contribution must comply with
+      its terms; by submitting original materials, you agree to make them available under this license.'
+- type: input
+  id: course
+  attributes:
+    label: Course or module
+  validations:
+    required: true
+- type: textarea
+  id: description
+  attributes:
+    label: Material description
+  validations:
+    required: true
+- type: textarea
+  id: materials
+  attributes:
+    label: Attachments or material links
+    description: Attach supported files here or paste a link, including a pull request link.
+  validations:
+    required: true

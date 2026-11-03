@@ -1,0 +1,25 @@
+body:
+- type: markdown
+  attributes:
+    value: 'Inserisci il titolo nel campo di GitHub. Puoi compilare il modulo in italiano o inglese.
+
+
+      Enter the title in GitHub’s title field. You can complete this form in Italian or English.'
+- type: input
+  id: material
+  attributes:
+    label: File o materiale interessato / Affected file or material
+  validations:
+    required: true
+- type: textarea
+  id: error
+  attributes:
+    label: Descrizione dell’errore / Error description
+  validations:
+    required: true
+- type: textarea
+  id: correction
+  attributes:
+    label: Correzione suggerita / Suggested correction
+  validations:
+    required: false

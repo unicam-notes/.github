@@ -1,0 +1,18 @@
+body:
+- type: markdown
+  attributes:
+    value: English version of the active bilingual form. You can complete and submit the bilingual form
+      in English. [Active bilingual form](https://github.com/unicam-notes/.github/blob/HEAD/.github/DISCUSSION_TEMPLATE/q-a.yml).
+      Enter the title in GitHub’s title field.
+- type: input
+  id: topic
+  attributes:
+    label: Topic or module
+  validations:
+    required: false
+- type: textarea
+  id: question
+  attributes:
+    label: Question or description
+  validations:
+    required: true
