@@ -1,48 +1,32 @@
-# UNICAM Notes :: Community
+# UNICAM Notes
 
 Italiano · [English](i18n/en/README.md)
 
-UNICAM Notes raccoglie appunti, esercizi e materiali didattici condivisi da studenti e tutor dell’Università di Camerino. Questo repository contiene il [profilo dell’organizzazione](profile/README.md), le linee guida e i moduli dello spazio Discussions centralizzato.
+Appunti, esercizi e materiali didattici condivisi da studenti e tutor dell’Università di Camerino. Consulta i [repository dei corsi](profile/README.md) per trovare i materiali.
 
-## Dove contribuire
+## Partecipa alle Discussions
 
-Le pull request devono essere aperte nel repository del corso interessato. Le Discussions devono essere aperte esclusivamente nello [spazio centralizzato di `unicam-notes/.github`](https://github.com/unicam-notes/.github/discussions).
+Le [Discussions](https://github.com/unicam-notes/.github/discussions) sono lo spazio comune a tutti i corsi. Puoi scrivere in italiano o inglese.
 
-## Discussions
+- **Q&A**: fai una domanda o avvia una discussione.
+- **Contribution**: condividi appunti, esercitazioni e altri materiali.
 
-Segnala errori e correzioni tramite **Issues nel repository del corso interessato**, indicando il file o link, il problema e, se possibile, la correzione suggerita. Non serve un modulo dedicato.
+Per condividere un file, scegli **New discussion → Contribution**, indica il corso e trascina il file nel messaggio. Puoi anche incollare immagini o aggiungere link. Se GitHub non accetta un allegato, condividi un link. Non serve una pull request; gli allegati non vengono aggiunti automaticamente al repository del corso.
 
+## Correzioni e modifiche
 
-Usa lo [spazio Discussions centralizzato](https://github.com/unicam-notes/.github/discussions) per tutti i corsi. Indica il corso o repository in ogni intervento; pull request e materiali didattici restano nei repository dei corsi. Non serve abilitare Discussions nei singoli repository dei corsi.
+- Segnala errori aprendo una **Issue nel repository del corso**, con il link al materiale e una breve descrizione.
+- Per aggiungere o modificare direttamente i file, proponi una **pull request nello stesso repository**.
 
-| Categoria | Utilizzo | Slug |
-| --- | --- | --- |
-| Q&A | Domande e discussioni generali su corsi, esercizi e materiali. | `q-a` |
-| Contribution | Condivisione di nuovi appunti, esercitazioni e altri materiali. | `contribution` |
+## Contribuisci nel rispetto degli autori
 
-Per condividere PDF, ZIP, Markdown, soluzioni o altri file pertinenti, apri una Discussion nella categoria **Contribution** dello spazio centralizzato, indicando il corso, oppure proponi una pull request nel repository del corso. Gli allegati dipendono dai formati e dai limiti supportati da GitHub: se un file non è accettato, usa un link accessibile o una pull request per aggiungerlo al repository.
+Tutti i repository adottano la [BSD 3-Clause](LICENSE). I contributi originali sono condivisi con questa licenza. Pubblica solo materiali che hai il diritto di distribuire e conserva autori, fonti e avvisi di copyright. I materiali di terzi mantengono i propri vincoli.
 
-Condividi soltanto materiali che hai il diritto di distribuire. Indica autore originale e fonte, conserva firme, crediti e avvisi di copyright. La [BSD 3-Clause](LICENSE) si applica ai contenuti coperti dalla licenza; non rende automaticamente BSD i materiali di terzi e non autorizza a distribuirli.
+[Guida ai contributi](CONTRIBUTING.md) · [Codice di condotta](CODE_OF_CONDUCT.md)
 
-Tutti i repository di UNICAM Notes adottano la BSD 3-Clause. Ogni contributo deve rispettarne i termini; inviando materiali originali, accetti di renderli disponibili con questa licenza.
+<details>
+<summary>Configurazione per i maintainer</summary>
 
-## Condividere file in un messaggio
+Mantieni `.github` pubblico e pubblica i moduli nel branch predefinito. Abilita Discussions qui, con **Q&A** (domanda/risposta, slug `q-a`) e **Contribution** (discussione aperta, slug `contribution`). I nomi dei file in `.github/DISCUSSION_TEMPLATE/` devono corrispondere agli slug; controlla i campi aprendo una nuova discussione. Per mostrare lo spazio nell’organizzazione, scegli `.github` come repository sorgente delle Discussions. Abilita Issues nei repository dei corsi. Prima di rimuovere categorie esistenti, sposta o trasferisci le discussioni pertinenti.
 
-Per condividere materiali, apri **New discussion → Contribution**, inserisci un titolo e scrivi il messaggio indicando il corso. Trascina i file supportati direttamente nel messaggio, incolla immagini oppure aggiungi link. Non è necessaria una pull request per proporre materiali tramite Discussion; gli allegati non vengono aggiunti automaticamente al repository del corso.
-
-## Guide
-
-- [Come contribuire](CONTRIBUTING.md) · [English](i18n/en/CONTRIBUTING.md)
-- [Codice di condotta](CODE_OF_CONDUCT.md) · [English](i18n/en/CODE_OF_CONDUCT.md)
-- Moduli bilingui italiano/inglese: [Q&A](.github/DISCUSSION_TEMPLATE/q-a.yml), [Contribution](.github/DISCUSSION_TEMPLATE/contribution.yml).
-
-## Configurazione centralizzata
-
-1. Pubblica i moduli nel branch predefinito del repository pubblico `unicam-notes/.github`.
-2. Abilita **Settings → General → Features → Discussions** soltanto in `.github`. Per mostrarle anche a livello di organizzazione, abilita le Discussions dell’organizzazione e scegli `.github` come repository sorgente.
-3. Configura due categorie: **Q&A** (domanda/risposta, slug `q-a`) e **Contribution** (discussione aperta, slug `contribution`). Prima di eliminare categorie aggiuntive, sposta le discussioni esistenti nelle categorie appropriate.
-4. Verifica gli slug negli URL e apri una nuova discussione in ogni categoria per controllare i campi bilingui. Non occorre replicare categorie o moduli nei repository dei corsi.
-
-I moduli attivi in `.github/DISCUSSION_TEMPLATE/` hanno istruzioni e campi in italiano e inglese. Il titolo usa il campo nativo di GitHub. Le pull request per aggiungere o correggere materiali vanno aperte nel repository del corso, non in `.github`.
-
-Per i maintainer: abilita **Issues** nei repository dei corsi. Sposta eventuali segnalazioni già aperte nella categoria Correction verso le Issues del corso prima di rimuovere la categoria.
+</details>

@@ -1,29 +1,25 @@
 body:
 - type: markdown
   attributes:
-    value: 'Inserisci il titolo nel campo di GitHub. Puoi compilare il modulo in italiano o inglese.
+    value: |
+      Fai una domanda o avvia una discussione sui corsi. Puoi scrivere in italiano o inglese. Per errori nei materiali, apri una Issue nel repository del corso.
 
-
-      Enter the title in GitHub’s title field. You can complete this form in Italian or English.
-
-
-      Questo spazio raccoglie le Discussions di tutti i corsi. Indica il corso o repository; invia le
-      pull request con materiali al repository del corso.
-
-
-      Discussions for all courses are centralized here. Specify the course or repository; submit material
-      pull requests to the course repository.'
+      Ask a question or discuss course topics in Italian or English. To report errors in materials, open an Issue in the course repository.
 - type: input
   id: topic
   attributes:
-    label: Corso o argomento (facoltativo) / Course or topic (optional)
-    description: Indica il corso o il link al repository; lascia vuoto per domande generali. / Specify
-      the course or repository link; leave blank for general questions.
+    label: Corso o argomento / Course or topic
+    description: Facoltativo per domande generali. / Optional for general questions.
+    placeholder: Es. / e.g. Programmazione — ST0851
   validations:
     required: false
 - type: textarea
   id: question
   attributes:
-    label: Domanda o descrizione / Question or description
+    label: Domanda / Question
+    placeholder: |
+      Descrivi la domanda e ciò che hai già provato. Aggiungi esempi o immagini utili.
+
+      Describe your question and what you have tried. Add helpful examples or images.
   validations:
     required: true

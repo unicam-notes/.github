@@ -1,47 +1,22 @@
 body:
 - type: markdown
   attributes:
-    value: 'Inserisci il titolo nel campo di GitHub. Puoi compilare il modulo in italiano o inglese.
+    value: |
+      Condividi i materiali qui, senza pull request. Indica corso, autore e fonte. Condividi solo ciò che hai il diritto di distribuire; i contributi originali sono offerti sotto BSD 3-Clause. [Come contribuire](../../CONTRIBUTING.md).
 
-
-      Enter the title in GitHub’s title field. You can complete this form in Italian or English.
-
-
-      Questo spazio raccoglie le Discussions di tutti i corsi. Indica il corso o repository; invia le
-      pull request con materiali al repository del corso.
-
-
-      Discussions for all courses are centralized here. Specify the course or repository; submit material
-      pull requests to the course repository.'
-- type: markdown
-  attributes:
-    value: 'Condividi appunti PDF, archivi ZIP con cartelle o materiali, esercitazioni e soluzioni, documenti
-      Markdown o altri file pertinenti. Condividi solo materiali che hai il diritto o l’autorizzazione
-      di distribuire; indica autori originali e fonti. Gli allegati devono rispettare i formati e i limiti
-      supportati da GitHub. Se un file non è caricabile, fornisci un link accessibile o proponi una pull
-      request per aggiungerlo al repository.
-
-
-      Share PDF notes, ZIP archives containing folders or materials, exercises and solutions, Markdown
-      documents or other relevant files. Only share materials you have the right or permission to distribute;
-      credit original authors and sources. Attachments must comply with GitHub’s supported formats and
-      limits. If a file cannot be uploaded, provide an accessible link or submit a pull request to add
-      it to the repository.
-
-
-      Tutti i repository di UNICAM Notes adottano la BSD 3-Clause. Ogni contributo deve rispettarne i
-      termini; inviando materiali originali, accetti di renderli disponibili con questa licenza.
-
-
-      All UNICAM Notes repositories use the BSD 3-Clause license. Every contribution must comply with
-      its terms; by submitting original materials, you agree to make them available under this license.'
+      Share materials here without a pull request. Include the course, author and source. Only share what you have the right to distribute; original contributions are offered under BSD 3-Clause. [Contribution guidelines](../../i18n/en/CONTRIBUTING.md).
 - type: textarea
   id: message
   attributes:
-    label: Messaggio e file / Message and files
-    description: Indica il corso e descrivi brevemente il materiale. Trascina qui i file supportati, incolla
-      immagini o aggiungi link. Indica autore originale e fonte. / Name the course and briefly describe
-      your material. Drag supported files here, paste images or add links. Include the original author
-      and source.
+    label: Materiali e messaggio / Materials and message
+    description: Trascina i file qui o usa la graffetta; puoi anche incollare immagini o link. Se GitHub
+      rifiuta un file, usa un link. / Drag files here or use the paperclip; you can also paste images
+      or links. If GitHub rejects a file, use a link.
+    placeholder: |
+      Corso / Course:
+      Descrizione / Description:
+      Autore e fonte / Author and source:
+
+      Allega qui i materiali / Attach materials here
   validations:
     required: true
