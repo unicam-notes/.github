@@ -8,6 +8,11 @@ Notes, exercises and teaching materials shared by students and tutors at the Uni
 
 [Discussions](https://github.com/unicam-notes/.github/discussions) are the shared space for all courses. You can write in Italian or English.
 
+
+![Repository navigation: the Discussions tab is next to Issues](../../profile/assets/top-bar.png)
+
+In this repository’s top bar, click **Discussions**, then **New discussion** and choose a category:
+
 - **Q&A**: ask a question or start a conversation.
 - **Contribution**: share notes, exercises and other materials.
 
