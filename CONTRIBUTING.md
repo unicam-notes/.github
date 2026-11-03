@@ -29,7 +29,8 @@ Per condividere materiali, apri **New discussion → Contribution**, inserisci u
 
 1. Apri il repository del corso e crea un fork, se necessario.
 2. Aggiungi o modifica i file nella cartella pertinente, seguendo la struttura e le convenzioni già presenti. Usa nomi descrittivi ed evita duplicati o riorganizzazioni non necessarie. Puoi usare l’editor e il caricamento file di GitHub.
-3. Apri una pull request con una breve descrizione del contributo, indicando autore originale e fonte nel materiale o in un README vicino ai file. I maintainer la esamineranno.
+   * eventuali appunti in LaTeX devono essere inseriti in un apposita cartella `latex/AnnoAccademico - Nome Cognome/`, inserendo un file .pdf già compilato e il source code all'interno della cartella `source/`
+4. Apri una pull request con una breve descrizione del contributo, indicando autore originale e fonte nel materiale o in un README vicino ai file. I maintainer la esamineranno.
 
 ## Autori, diritti e licenza
 
