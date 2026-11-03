@@ -1,6 +1,9 @@
 ![UNICAM Notes — appunti e materiali dei corsi](assets/UNICAM-notes-banner.png)
 
-<h2 align="center">Laurea triennale</h2>
+**UNICAM Notes** offre appunti, esercitazioni e materiali di tutorato per gli insegnamenti di Informatica. I contenuti sono organizzati per percorso di laurea e anno di studio, con un repository dedicato a ciascun corso. Chiunque può contribuire condividendo i propri appunti, aggiungendo materiali o proponendo correzioni tramite una pull request/Discussion nel repository del corso interessato.
+ <sub><em>Espandi un anno e scegli un corso per accedere al relativo repository.</em></sub>
+
+<h2 align="center"> — Laurea Triennale — </h2>
 
 ### I anno
 
@@ -54,18 +57,18 @@
 
 </details>
 
-<h2 align="center">Masters Degree</h2>
+<h2 align="center"> — Master's Degree — </h2>
 
-### I  year
+### I year
 
 <details>
-<summary>Comming soon ...</summary>
+<summary>Coming soon ...</summary>
 
 </details>
 
 ### II year
 
 <details>
-<summary>Comming soon ...</summary>
+<summary>Coming soon ...</summary>
 
 </details>
