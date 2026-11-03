@@ -24,9 +24,3 @@ Tutti i repository adottano la [BSD 3-Clause](LICENSE). I contributi originali s
 
 [Guida ai contributi](CONTRIBUTING.md) · [Codice di condotta](CODE_OF_CONDUCT.md)
 
-<details>
-<summary>Configurazione per i maintainer</summary>
-
-Mantieni `.github` pubblico e pubblica i moduli nel branch predefinito. Abilita Discussions qui, con **Q&A** (domanda/risposta, slug `q-a`) e **Contribution** (discussione aperta, slug `contribution`). I nomi dei file in `.github/DISCUSSION_TEMPLATE/` devono corrispondere agli slug; controlla i campi aprendo una nuova discussione. Per mostrare lo spazio nell’organizzazione, scegli `.github` come repository sorgente delle Discussions. Abilita Issues nei repository dei corsi. Prima di rimuovere categorie esistenti, sposta o trasferisci le discussioni pertinenti.
-
-</details>
