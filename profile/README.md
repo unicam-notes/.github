@@ -18,9 +18,8 @@
 | Fondamenti di Informatica | [ST0247](https://github.com/unicam-notes/ST0247-FDI) |
 | Architettura degli Elaboratori | [SST0068](https://github.com/unicam-notes/SST0068-ADE) |
 | Business e Management nell'Information Technology | [ST0856](https://github.com/unicam-notes/ST0856-BMIT) |
-| Diritto dei Prodotti Digitali | N/A |
-| Comunicazione e Marketing Digitale | N/A |
-
+| Diritto dei Prodotti Digitali | [ST1413](https://github.com/unicam-notes/ST1413-DPD) |
+| Comunicazione e Marketing Digitale | [ST1416](https://github.com/unicam-notes/ST1416-GCD) |
 </details>
 
 ### II anno
