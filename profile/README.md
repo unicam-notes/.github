@@ -1,6 +1,13 @@
 ![UNICAM Notes — appunti e materiali dei corsi](assets/UNICAM-notes-banner.png)
 
-## Laurea triennale
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<img src="assets/column-spacer.png" width="600" height="1" alt="">
+
+<h2 align="center">Laurea triennale</h2>
+<hr>
+
 
 
 ### I anno
@@ -54,3 +61,28 @@
 | Game Design | [ST1418](https://github.com/unicam-notes/ST1418-GD) |
 
 </details>
+
+</td>
+<td width="50%" valign="top">
+<img src="assets/column-spacer.png" width="600" height="1" alt="">
+
+<h2 align="center">Masters Degree</h2>
+<hr>
+
+### I  year
+
+<details>
+<summary>Comming soon ...</summary>
+
+</details>
+
+### II year
+
+<details>
+<summary>Comming soon ...</summary>
+
+</details>
+
+</td>
+</tr>
+</table>
