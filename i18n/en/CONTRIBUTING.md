@@ -24,8 +24,8 @@ GitHub only accepts attachments within supported formats and limits: not every P
 
 Only share your own material or material you have the right or permission to distribute. Always credit the original author when known and the source, with a link when available; retain signatures, credits, provenance and copyright notices. Do not publish personal data without consent.
 
-All UNICAM Notes repositories use the [BSD 3-Clause](https://github.com/unicam-notes/.github/blob/HEAD/LICENSE). Every contribution must comply with its terms; by submitting original materials, you agree to make them available under this license. For content covered by it, retain the copyright, conditions and disclaimer in source distributions; reproduce them in the documentation or other supplied materials for binary distributions. Do not use the copyright holder’s or contributors’ names to endorse derived products without written permission.
+All UNICAM Notes repositories use the [BSD 3-Clause](../../LICENSE). Every contribution must comply with its terms; by submitting original materials, you agree to make them available under this license. For content covered by it, retain the copyright, conditions and disclaimer in source distributions; reproduce them in the documentation or other supplied materials for binary distributions. Do not use the copyright holder’s or contributors’ names to endorse derived products without written permission.
 
 Check the license of the course repository and individual materials. Uploading third-party content does not automatically make it BSD 3-Clause or grant missing rights.
 
-Follow the [code of conduct](https://github.com/unicam-notes/.github/blob/HEAD/i18n/en/CODE_OF_CONDUCT.md).
+Follow the [code of conduct](CODE_OF_CONDUCT.md).

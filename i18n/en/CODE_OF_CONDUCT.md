@@ -12,7 +12,7 @@ UNICAM Notes is a collaborative space for students, tutors a like.
 
 ## Licensing and attribution
 
-All UNICAM Notes repositories use the [BSD 3-Clause](https://github.com/unicam-notes/.github/blob/HEAD/LICENSE). Every contribution must comply with its terms; by submitting original materials, you agree to make them available under this license. For content covered by the license, retain the copyright, conditions and disclaimer in source distributions and reproduce them in the documentation or other materials supplied with binary distributions. Do not use the copyright holder’s or contributors’ names to endorse derived products without written permission.
+All UNICAM Notes repositories use the [BSD 3-Clause](../../LICENSE). Every contribution must comply with its terms; by submitting original materials, you agree to make them available under this license. For content covered by the license, retain the copyright, conditions and disclaimer in source distributions and reproduce them in the documentation or other materials supplied with binary distributions. Do not use the copyright holder’s or contributors’ names to endorse derived products without written permission.
 
 Third-party materials retain their own restrictions: uploading them does not automatically make them BSD 3-Clause. Do not publish protected material without the right to distribute it.
 
