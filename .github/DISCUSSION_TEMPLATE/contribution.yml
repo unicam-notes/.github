@@ -4,7 +4,15 @@ body:
     value: 'Inserisci il titolo nel campo di GitHub. Puoi compilare il modulo in italiano o inglese.
 
 
-      Enter the title in GitHub’s title field. You can complete this form in Italian or English.'
+      Enter the title in GitHub’s title field. You can complete this form in Italian or English.
+
+
+      Questo spazio raccoglie le Discussions di tutti i corsi. Indica il corso o repository; invia le
+      pull request con materiali al repository del corso.
+
+
+      Discussions for all courses are centralized here. Specify the course or repository; submit material
+      pull requests to the course repository.'
 - type: markdown
   attributes:
     value: 'Condividi appunti PDF, archivi ZIP con cartelle o materiali, esercitazioni e soluzioni, documenti
@@ -27,23 +35,13 @@ body:
 
       All UNICAM Notes repositories use the BSD 3-Clause license. Every contribution must comply with
       its terms; by submitting original materials, you agree to make them available under this license.'
-- type: input
-  id: course
-  attributes:
-    label: Corso o modulo / Course or module
-  validations:
-    required: true
 - type: textarea
-  id: description
+  id: message
   attributes:
-    label: Descrizione del materiale / Material description
-  validations:
-    required: true
-- type: textarea
-  id: materials
-  attributes:
-    label: File allegati o link al materiale / Attachments or material links
-    description: Allega qui i file supportati o incolla un link, anche a una pull request. / Attach supported
-      files here or paste a link, including a pull request link.
+    label: Messaggio e file / Message and files
+    description: Indica il corso e descrivi brevemente il materiale. Trascina qui i file supportati, incolla
+      immagini o aggiungi link. Indica autore originale e fonte. / Name the course and briefly describe
+      your material. Drag supported files here, paste images or add links. Include the original author
+      and source.
   validations:
     required: true

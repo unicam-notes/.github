@@ -4,15 +4,23 @@ Italiano · [English](i18n/en/CONTRIBUTING.md)
 
 Studenti e tutor possono condividere appunti PDF, archivi ZIP con cartelle o materiali, esercitazioni, soluzioni, documenti Markdown e altri file pertinenti al corso.
 
+## Dove contribuire
+
+Le pull request devono essere aperte nel repository del corso interessato. Le Discussions devono essere aperte esclusivamente nello [spazio centralizzato di `unicam-notes/.github`](https://github.com/unicam-notes/.github/discussions).
+
 ## Scegli come contribuire
 
 - **Q&A**: domande e discussioni generali su corsi, esercizi o materiali, comprese idee e richieste di chiarimento.
 - **Contribution**: nuovi materiali. Indica corso o modulo, descrivi il contenuto e aggiungi allegati o link.
 - **Correction**: errori nei materiali esistenti. Indica il file o il link e descrivi l’errore; se puoi, suggerisci una correzione.
 
-Usa le Discussions del repository del corso interessato. I tre moduli attivi hanno etichette e istruzioni in italiano e inglese: puoi compilarli in entrambe le lingue. Sono disponibili anche le [versioni inglesi](i18n/en/README.md). Il titolo si inserisce nel campo nativo di GitHub.
+Usa lo [spazio Discussions centralizzato](https://github.com/unicam-notes/.github/discussions) per tutti i corsi e indica il corso o il repository interessato. Le pull request vanno nei repository dei corsi; i materiali possono essere proposti anche come allegati nelle Discussions centrali. I tre moduli attivi hanno etichette e istruzioni in italiano e inglese: puoi compilarli in entrambe le lingue. Il titolo si inserisce nel campo nativo di GitHub.
 
 GitHub accetta allegati solo nei formati e nei limiti supportati dalla piattaforma: non tutti i PDF o ZIP sono necessariamente caricabili. Se un allegato non è accettato, condividi un link accessibile o proponi una pull request per aggiungere i file al repository. Un link non sostituisce il permesso di distribuire il materiale.
+
+## Condividere file in un messaggio
+
+Per condividere materiali, apri **New discussion → Contribution**, inserisci un titolo e scrivi il messaggio indicando il corso. Trascina i file supportati direttamente nel messaggio, incolla immagini oppure aggiungi link. Non è necessaria una pull request per proporre materiali tramite Discussion; gli allegati non vengono aggiunti automaticamente al repository del corso.
 
 ## Pull request
 

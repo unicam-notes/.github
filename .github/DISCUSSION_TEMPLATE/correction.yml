@@ -4,11 +4,21 @@ body:
     value: 'Inserisci il titolo nel campo di GitHub. Puoi compilare il modulo in italiano o inglese.
 
 
-      Enter the title in GitHub’s title field. You can complete this form in Italian or English.'
+      Enter the title in GitHub’s title field. You can complete this form in Italian or English.
+
+
+      Questo spazio raccoglie le Discussions di tutti i corsi. Indica il corso o repository; invia le
+      pull request con materiali al repository del corso.
+
+
+      Discussions for all courses are centralized here. Specify the course or repository; submit material
+      pull requests to the course repository.'
 - type: input
   id: material
   attributes:
     label: File o materiale interessato / Affected file or material
+    description: Includi un link al file che identifichi anche il repository del corso. / Include a link
+      identifying the course repository and the affected file.
   validations:
     required: true
 - type: textarea
