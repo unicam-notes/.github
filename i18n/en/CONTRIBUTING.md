@@ -29,7 +29,8 @@ To share materials, open **New discussion → Contribution**, enter a title and 
 
 1. Open the course repository and create a fork if needed.
 2. Add or edit files in the relevant folder, following the existing structure and conventions. Use descriptive names and avoid duplicates or unnecessary reorganizations. You can use GitHub’s editor and file upload interface.
-3. Open a pull request with a brief description, crediting the original author and source in the material or in a README next to the files. Maintainers will review it.
+   * Any LaTeX notes must be placed in a dedicated folder named `latex/AcademicYear - FirstName LastName/`, containing a precompiled `.pdf` file and the corresponding source code inside a `source/` subfolder.
+4. Open a pull request with a brief description, crediting the original author and source in the material or in a README next to the files. Maintainers will review it.
 
 ## Authors, rights and licensing
 
