@@ -6,15 +6,18 @@ Students and tutors can share PDF notes, ZIP archives containing folders or mate
 
 ## Where to contribute
 
+Report errors and corrections through **Issues in the relevant course repository**, including the file or link, the problem and, if possible, a suggested correction. No dedicated template is needed.
+
+
 Pull requests must be opened in the specific course repository. Discussions must be opened only in the [central `unicam-notes/.github` space](https://github.com/unicam-notes/.github/discussions).
 
 ## Choose how to contribute
 
 - **Q&A**: questions and general discussions about courses, exercises or materials, including ideas and requests for clarification.
 - **Contribution**: new materials. Specify the course or module, describe the content and add attachments or links.
-- **Correction**: errors in existing materials. Identify the file or link and describe the error; suggest a correction if possible.
+- **Issues in the course repository**: errors in existing materials. Identify the file or link and describe the error; suggest a correction if possible.
 
-Use the [central Discussions space](https://github.com/unicam-notes/.github/discussions) for all courses and identify the relevant course or repository. Pull requests go to course repositories; materials can also be proposed as attachments in central Discussions. All three active forms have Italian and English labels and instructions: you can complete them in either language. Enter the title in GitHub’s native title field.
+Use the [central Discussions space](https://github.com/unicam-notes/.github/discussions) for all courses and identify the relevant course or repository. Pull requests go to course repositories; materials can also be proposed as attachments in central Discussions. Both active forms have Italian and English labels and instructions: you can complete them in either language. Enter the title in GitHub’s native title field.
 
 GitHub only accepts attachments within supported formats and limits: not every PDF or ZIP can necessarily be uploaded. If an attachment is rejected, share an accessible link or submit a pull request to add the files to the repository. A link does not replace permission to distribute the material.
 
