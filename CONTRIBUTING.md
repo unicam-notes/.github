@@ -23,6 +23,18 @@ GitHub accetta allegati solo nei formati e nei limiti supportati dalla piattafor
 
 ## Condividere file in un messaggio
 
+1. Clicca **Discussions** nella barra in alto di `unicam-notes/.github`.
+
+![Barra del repository con la scheda Discussions](profile/assets/top-bar.png)
+
+2. Clicca **New discussion**.
+
+![Pagina Discussions con il pulsante New discussion](profile/assets/discussions.png)
+
+3. Scegli **Contribution** per condividere file oppure **Q&A** per fare una domanda, poi clicca **Get started**.
+
+![Scelta delle categorie Contribution e Q&A](profile/assets/new-descussion.png)
+
 Per condividere materiali, apri **New discussion → Contribution**, inserisci un titolo e scrivi il messaggio indicando il corso. Trascina i file supportati direttamente nel messaggio, incolla immagini oppure aggiungi link. Non è necessaria una pull request per proporre materiali tramite Discussion; gli allegati non vengono aggiunti automaticamente al repository del corso.
 
 ## Pull request

@@ -23,6 +23,18 @@ GitHub only accepts attachments within supported formats and limits: not every P
 
 ## Share files in a message
 
+1. Click **Discussions** in the top bar of `unicam-notes/.github`.
+
+![Repository navigation with the Discussions tab](../../profile/assets/top-bar.png)
+
+2. Click **New discussion**.
+
+![Discussions page with the New discussion button](../../profile/assets/discussions.png)
+
+3. Choose **Contribution** to share files or **Q&A** to ask a question, then click **Get started**.
+
+![Contribution and Q&A category selection](../../profile/assets/new-descussion.png)
+
 To share materials, open **New discussion → Contribution**, enter a title and write your message naming the course. Drag supported files directly into the message, paste images or add links. A pull request is not required to propose materials through a Discussion; attachments are not automatically added to the course repository.
 
 ## Pull requests
