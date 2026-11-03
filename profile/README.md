@@ -1,6 +1,6 @@
 ![UNICAM Notes — appunti e materiali dei corsi](assets/UNICAM-notes-banner.png)
 
-**UNICAM Notes** offre appunti, esercitazioni e materiali di tutorato per gli insegnamenti di Informatica. I contenuti sono organizzati per percorso di laurea e anno di studio, con un repository dedicato a ciascun corso. Chiunque può [contribuire](../CONTRIBUTING.md) condividendo i propri appunti, aggiungendo materiali tramite una pull request nel repository del corso o una [Discussion nello spazio centralizzato](https://github.com/unicam-notes/.github/discussions), oppure segnalando errori tramite le Issues del repository del corso, nel rispetto del [codice di condotta](../CODE_OF_CONDUCT.md).<br>
+**UNICAM Notes** offre appunti, esercitazioni e materiali di tutorato per gli insegnamenti di Informatica. I contenuti sono organizzati per percorso di laurea e anno di studio, con un repository dedicato a ciascun corso. Chiunque può [contribuire](../CONTRIBUTING.md) condividendo i propri appunti, aggiungendo materiali tramite una **pull request** nel repository del corso o una [Discussion](https://github.com/unicam-notes/.github/discussions) nello spazio centralizzato, oppure segnalando **errori/issues** tramite le Issues del repository del corso, nel rispetto del [codice di condotta](../CODE_OF_CONDUCT.md).<br>
  <sub><em>Espandi un anno e scegli un corso per accedere al relativo repository.</em></sub>
 
 <h2 align="center"> — Laurea Triennale — </h2>
