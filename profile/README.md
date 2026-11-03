@@ -3,10 +3,8 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img src="assets/column-spacer.png" width="600" height="1" alt="">
 
 <h2 align="center">Laurea triennale</h2>
-<hr>
 
 
 
@@ -62,12 +60,11 @@
 
 </details>
 
+<img src="assets/column-spacer.png" width="600" height="1" alt="">
 </td>
 <td width="50%" valign="top">
-<img src="assets/column-spacer.png" width="600" height="1" alt="">
 
 <h2 align="center">Masters Degree</h2>
-<hr>
 
 ### I  year
 
@@ -83,6 +80,7 @@
 
 </details>
 
+<img src="assets/column-spacer.png" width="600" height="1" alt="">
 </td>
 </tr>
 </table>
