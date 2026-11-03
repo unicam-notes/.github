@@ -9,7 +9,7 @@ Students and tutors can share PDF notes, ZIP archives containing folders or mate
 Report errors and corrections through **Issues in the relevant course repository**, including the file or link, the problem and, if possible, a suggested correction. No dedicated template is needed.
 
 
-Pull requests must be opened in the specific course repository. Discussions must be opened only in the [central `unicam-notes/.github` space](https://github.com/unicam-notes/.github/discussions).
+Pull requests must be opened in the specific course repository. Discussions must be opened only in the [central UNICAM Notes space](https://github.com/orgs/unicam-notes/discussions).
 
 ## Choose how to contribute
 
@@ -17,15 +17,15 @@ Pull requests must be opened in the specific course repository. Discussions must
 - **Contribution**: new materials. Specify the course or module, describe the content and add attachments or links.
 - **Issues in the course repository**: errors in existing materials. Identify the file or link and describe the error; suggest a correction if possible.
 
-Use the [central Discussions space](https://github.com/unicam-notes/.github/discussions) for all courses and identify the relevant course or repository. Pull requests go to course repositories; materials can also be proposed as attachments in central Discussions. Both active forms have Italian and English labels and instructions: you can complete them in either language. Enter the title in GitHub’s native title field.
+Use the [central Discussions space](https://github.com/orgs/unicam-notes/discussions) for all courses and identify the relevant course or repository. Pull requests go to course repositories; materials can also be proposed as attachments in central Discussions. Both active forms have Italian and English labels and instructions: you can complete them in either language. Enter the title in GitHub’s native title field.
 
 GitHub only accepts attachments within supported formats and limits: not every PDF or ZIP can necessarily be uploaded. If an attachment is rejected, share an accessible link or submit a pull request to add the files to the repository. A link does not replace permission to distribute the material.
 
 ## Share files in a message
 
-1. Click **Discussions** in the top bar of `unicam-notes/.github`.
+1. Open the [UNICAM Notes organization page](https://github.com/unicam-notes) and click **Discussions** in the top bar, next to **Repositories**.
 
-![Repository navigation with the Discussions tab](../../profile/assets/top-bar.png)
+![UNICAM Notes organization page: Discussions is next to Repositories](../../profile/assets/overview.png)
 
 2. Click **New discussion**.
 

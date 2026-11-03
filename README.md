@@ -6,7 +6,7 @@ Appunti, esercizi e materiali didattici condivisi da studenti e tutor dell’Uni
 
 ## Partecipa alle Discussions
 
-Le [Discussions](https://github.com/unicam-notes/.github/discussions) sono lo spazio comune a tutti i corsi. Puoi scrivere in italiano o inglese.
+Le [Discussions](https://github.com/orgs/unicam-notes/discussions) sono lo spazio comune a tutti i corsi. Puoi scrivere in italiano o inglese.
 
 Clicca **Discussions** nella barra in alto, poi **New discussion**.
 

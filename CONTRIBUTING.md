@@ -9,7 +9,7 @@ Studenti e tutor possono condividere appunti PDF, archivi ZIP con cartelle o mat
 Segnala errori e correzioni tramite **Issues nel repository del corso interessato**, indicando il file o link, il problema e, se possibile, la correzione suggerita. Non serve un modulo dedicato.
 
 
-Le pull request devono essere aperte nel repository del corso interessato. Le Discussions devono essere aperte esclusivamente nello [spazio centralizzato di `unicam-notes/.github`](https://github.com/unicam-notes/.github/discussions).
+Le pull request devono essere aperte nel repository del corso interessato. Le Discussions devono essere aperte esclusivamente nello [spazio centralizzato di UNICAM Notes](https://github.com/orgs/unicam-notes/discussions).
 
 ## Scegli come contribuire
 
@@ -17,15 +17,15 @@ Le pull request devono essere aperte nel repository del corso interessato. Le Di
 - **Contribution**: nuovi materiali. Indica corso o modulo, descrivi il contenuto e aggiungi allegati o link.
 - **Issues nel repository del corso**: errori nei materiali esistenti. Indica il file o il link e descrivi l’errore; se puoi, suggerisci una correzione.
 
-Usa lo [spazio Discussions centralizzato](https://github.com/unicam-notes/.github/discussions) per tutti i corsi e indica il corso o il repository interessato. Le pull request vanno nei repository dei corsi; i materiali possono essere proposti anche come allegati nelle Discussions centrali. I due moduli attivi hanno etichette e istruzioni in italiano e inglese: puoi compilarli in entrambe le lingue. Il titolo si inserisce nel campo nativo di GitHub.
+Usa lo [spazio Discussions centralizzato](https://github.com/orgs/unicam-notes/discussions) per tutti i corsi e indica il corso o il repository interessato. Le pull request vanno nei repository dei corsi; i materiali possono essere proposti anche come allegati nelle Discussions centrali. I due moduli attivi hanno etichette e istruzioni in italiano e inglese: puoi compilarli in entrambe le lingue. Il titolo si inserisce nel campo nativo di GitHub.
 
 GitHub accetta allegati solo nei formati e nei limiti supportati dalla piattaforma: non tutti i PDF o ZIP sono necessariamente caricabili. Se un allegato non è accettato, condividi un link accessibile o proponi una pull request per aggiungere i file al repository. Un link non sostituisce il permesso di distribuire il materiale.
 
 ## Condividere file in un messaggio
 
-1. Clicca **Discussions** nella barra in alto di `unicam-notes/.github`.
+1. Apri la [pagina dell’organizzazione UNICAM Notes](https://github.com/unicam-notes) e clicca **Discussions** nella barra in alto, accanto a **Repositories**.
 
-![Barra del repository con la scheda Discussions](profile/assets/top-bar.png)
+![Pagina dell’organizzazione UNICAM Notes: Discussions accanto a Repositories](profile/assets/overview.png)
 
 2. Clicca **New discussion**.
 
