@@ -61,13 +61,44 @@
 ### I year
 
 <details>
-<summary>Coming soon ...</summary>
+<summary>Show / Hide courses</summary>
+
+| Course | Repository |
+| --- | --- |
+| Machine Learning | [ST1193](https://github.com/unicam-notes/ST1193-ML) |
+| Complex Systems Design | [ST0294](https://github.com/unicam-notes/ST0294-CSD) |
+| Agent-based Adaptive Modelling | [SST0204](https://github.com/unicam-notes/SST0204-SST1194-AAM-MASL) |
+| Multi-Agents Systems Lab | [SST1194](https://github.com/unicam-notes/SST0204-SST1194-AAM-MASL) |
+| Business Process Management | [ST0291](https://github.com/unicam-notes/ST0291-BPM) |
+| Process Mining | [ST1056](https://github.com/unicam-notes/ST1056-PM) |
+| Digital Technologies for Cultural Heritage | [ST1476](https://github.com/unicam-notes/ST1476-DTCH) |
+| Advanced Topics in User Experience Design | [SST0157](https://github.com/unicam-notes/SST0157-ATUXD) |
+| Cyber Physical Systems Design | [ST1473](https://github.com/unicam-notes/ST1473-CPSD) |
+| Research Metholodogies | [SST0086](https://github.com/unicam-notes/SST0086-RM) |
+| Deep Learning | [SST0159](https://github.com/unicam-notes/SST0159-DL) |
+| Knowledge Engineering | [ST0294](https://github.com/unicam-notes/ST0294-KE) |
+| Distributed Systems | [ST0864](https://github.com/unicam-notes/ST0864-DS) |
+| Industrial Applications with AI | [SST0137](https://github.com/unicam-notes/SST0137-SST0198-AIIA) |
+| Geographic Information Systems | [SST0205](https://github.com/unicam-notes/SST0205-GIS) |
+| Financial Management and Strategy | [ST0458](https://github.com/unicam-notes/ST0458-FMS) |
+| Applied Game Design | [ST1453](https://github.com/unicam-notes/ST1453-AGD) |
+| Fundamentals of System Verification | [SST0156](https://github.com/unicam-notes/SST0156-FSV) |
+| Fundamentals of System Testing | [ST1454](https://github.com/unicam-notes/ST1454-FST) |
 
 </details>
 
 ### II year
 
 <details>
-<summary>Coming soon ...</summary>
+<summary>Show / Hide courses</summary>
 
+| Course | Repository |
+| --- | --- |
+| Process Mining | [ST1056](https://github.com/unicam-notes/ST1056-PM) |
+| Software Project Management | [ST1061](https://github.com/unicam-notes/ST1061-SPM) |
+| Parallel and Distributed Programming | [ST1456](https://github.com/unicam-notes/ST1456-PDP) |
+| Technologies for Big Data Management | [ST1447](https://github.com/unicam-notes/ST1447-TBDM) |
+| Blockchain and Distributed Ledger Technologies | [ST1474](https://github.com/unicam-notes/ST1474-BDLT) |
+| Technologies for Extended Reality | [ST1457](https://github.com/unicam-notes/ST1457-TER) |
+| Web 3D and Immersive Communication | [ST1458](https://github.com/unicam-notes/ST1458-W3IC) |
 </details>
