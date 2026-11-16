@@ -4,13 +4,6 @@ Italiano · [English](i18n/en/CONTRIBUTING.md)
 
 Studenti e tutor possono condividere appunti PDF, archivi ZIP con cartelle o materiali, esercitazioni, soluzioni, documenti Markdown e altri file pertinenti al corso.
 
-## Dove contribuire
-
-Segnala errori e correzioni tramite **Issues nel repository del corso interessato**, indicando il file o link, il problema e, se possibile, la correzione suggerita. Non serve un modulo dedicato.
-
-
-Le pull request devono essere aperte nel repository del corso interessato. Le Discussions devono essere aperte esclusivamente nello [spazio centralizzato di UNICAM Notes](https://github.com/orgs/unicam-notes/discussions).
-
 ## Scegli come contribuire
 
 - **Q&A**: domande e discussioni generali su corsi, esercizi o materiali, comprese idee e richieste di chiarimento.
